@@ -1,0 +1,12 @@
+{
+  "name": "react-com-mango",
+  "version": "1.0.0",
+  "description": "Udemy:  ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

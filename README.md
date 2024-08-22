@@ -2,6 +2,7 @@
 Udemy:  ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
 
 original repository: https://github.com/rmanguinho/clean-react
+convetional commits: https://www.conventionalcommits.org/en/v1.0.0/
 
 dependencias para serem instaladas
  - git-commit-msg-linter
